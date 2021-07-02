@@ -4,8 +4,6 @@ theme = "terminal"
 paginate = 5
 relativeURLs = true
 
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b0b1dfb3-7055-42b9-90fd-c5b48b0dfd5c" data-blockingmode="auto" type="text/javascript"></script>
-
 [params]
 
   # dir name of your blog content (default is `content/posts`)
