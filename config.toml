@@ -48,8 +48,12 @@ relativeURLs = true
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "home"
-        name = "Home"
+        identifier = "privacy"
+        name = "privacy"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "tos"
+        name = "TOS"
         url = "/"
       [[languages.en.menu.main]]
         identifier = "about_fleek"
