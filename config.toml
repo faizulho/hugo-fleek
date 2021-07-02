@@ -49,7 +49,7 @@ relativeURLs = true
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "home"
-        name = "privacy"
+        name = "Home"
         url = "/"
       [[languages.en.menu.main]]
         identifier = "tos"
