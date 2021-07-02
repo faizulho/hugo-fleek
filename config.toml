@@ -43,7 +43,7 @@ relativeURLs = true
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Hugo and Fleek"
+      logoText = "Legal Documents"
       logoHomeLink = "/"
 
     [languages.en.menu]
